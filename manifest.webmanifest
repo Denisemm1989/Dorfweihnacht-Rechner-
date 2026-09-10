@@ -1,0 +1,16 @@
+{
+  "name": "Dorfweihnacht Getränke Rechner",
+  "short_name": "Dorfweihnacht",
+  "description": "Getränke-, Pfand- und Rückgeld-Rechner für die Dorfweihnacht",
+  "lang": "de-DE",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#7f1d1d",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
